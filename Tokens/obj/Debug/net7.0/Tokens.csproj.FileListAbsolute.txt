@@ -1,0 +1,14 @@
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\bin\Debug\net7.0\Tokens.deps.json
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\bin\Debug\net7.0\Tokens.runtimeconfig.json
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\bin\Debug\net7.0\Tokens.dll
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\bin\Debug\net7.0\Tokens.pdb
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\obj\Debug\net7.0\Tokens.csproj.AssemblyReference.cache
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\obj\Debug\net7.0\Tokens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\obj\Debug\net7.0\Tokens.AssemblyInfoInputs.cache
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\obj\Debug\net7.0\Tokens.AssemblyInfo.cs
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\obj\Debug\net7.0\Tokens.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\obj\Debug\net7.0\Tokens.dll
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\obj\Debug\net7.0\refint\Tokens.dll
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\obj\Debug\net7.0\Tokens.pdb
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\obj\Debug\net7.0\Tokens.genruntimeconfig.cache
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\Tokens\obj\Debug\net7.0\ref\Tokens.dll

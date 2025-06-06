@@ -1,0 +1,17 @@
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\bin\Debug\net7.0\DatabaseContext.deps.json
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\bin\Debug\net7.0\DatabaseContext.runtimeconfig.json
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\bin\Debug\net7.0\DatabaseContext.dll
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\bin\Debug\net7.0\DatabaseContext.pdb
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\bin\Debug\net7.0\Models.dll
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\bin\Debug\net7.0\Models.pdb
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\DatabaseContext.csproj.AssemblyReference.cache
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\DatabaseContext.AssemblyInfoInputs.cache
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\DatabaseContext.AssemblyInfo.cs
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\DatabaseContext.csproj.CopyComplete
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\DatabaseContext.dll
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\refint\DatabaseContext.dll
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\DatabaseContext.pdb
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\DatabaseContext.genruntimeconfig.cache
+C:\Users\José Antonio\source\repos\AlphaSalesForcast\DatabaseContext\obj\Debug\net7.0\ref\DatabaseContext.dll
